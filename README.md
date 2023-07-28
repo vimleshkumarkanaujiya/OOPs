@@ -1,2 +1,2 @@
-# OOPs
-C++ Object Oriented Programming Concepts
+# C++ OOPs
+Object-Oriented Programming Concepts
